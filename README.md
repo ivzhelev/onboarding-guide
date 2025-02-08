@@ -16,6 +16,7 @@ Entry point for gathering useful onboarding info
   
 - TypeScript: https://www.typescriptlang.org/
 - GraphQL: https://graphql.org/learn/
+- ...
 
 ## List of IDEs relevant for UI projects 
 - WebStorm IDE: https://www.jetbrains.com/webstorm/
