@@ -25,3 +25,16 @@ Get overview and chose one of these five options:
 - WebStorm IDE: https://www.jetbrains.com/webstorm/
 - VS Code: https://code.visualstudio.com/
 - ...
+
+
+### ChatGPT advice:
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/03b26d10-df3e-4c08-a4fa-4b3eb824ec4b" />
+<img width="744" alt="image" src="https://github.com/user-attachments/assets/c74f897d-00d3-48ad-a4af-da11ca97b7cd" />
+<img width="697" alt="image" src="https://github.com/user-attachments/assets/bfb3c6b3-86e1-4bfe-92ec-bc662608ad5c" />
+<img width="672" alt="image" src="https://github.com/user-attachments/assets/2a084bac-b84b-452e-b3cc-ada82a9c50dd" />
+
+### DeepSeek advice:
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/ab97ccdd-3af0-450b-afae-b69394e18f18" />
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/14099d9d-b7df-42a3-93d0-abc58c60c5b2" />
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/d2ab2acb-280f-4c02-af35-34fe1f03c5c1" />
+
