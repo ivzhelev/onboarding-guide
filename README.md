@@ -8,9 +8,9 @@ Entry point for gathering useful onboarding info
 
 ## Technologies
 - Tauri 2.0 (JS/TS + Rust): https://v2.tauri.app/
-- Flutter (Dart): https://flutter.dev/
+- Flutter (Dart): https://flutter.dev/ , Tutorial: [Flutter Docs](https://docs.flutter.dev/)
 - Kotlin Multiplatform (Kotlin; AndroidStudio): https://kotlinlang.org/docs/multiplatform.html
-- React Native (JS/TS): https://reactnative.dev/
+- React Native (JS/TS): https://reactnative.dev/ , Tutorial: [React Native Docs]( https://reactnative.dev/docs/getting-started)
 - Ionic Framework (JS/TS): https://ionicframework.com/
 - Vant UI - Vue JS component library: https://vant-ui.github.io/vant/
   
