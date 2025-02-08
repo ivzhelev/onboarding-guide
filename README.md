@@ -15,7 +15,8 @@ Get overview and chose one of these five options:
 - Ionic Framework (JS/TS): https://ionicframework.com/
 
 
--  Vant UI - Vue JS component library: https://vant-ui.github.io/vant/
+### General JS/TS info
+- Vant UI - Vue JS component library: https://vant-ui.github.io/vant/
 - TypeScript: https://www.typescriptlang.org/
 - GraphQL: https://graphql.org/learn/
 - ...
